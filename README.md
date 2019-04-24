@@ -1,4 +1,6 @@
-# vuect
+# C H O T
+
+Vuetify project using [this template](https://github.com/Bestulo/vuetify-project-template).
 
 > A Vue.js project
 
