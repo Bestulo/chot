@@ -1,0 +1,114 @@
+[
+  {
+    "Categoría": "Materia Prima",
+    "Código del producto": 11,
+    "Producto": "Almendra fermentada",
+    "Imagen": "",
+    "Descripción": "Grano fermentado y seco. Sin tostar",
+    "Presentación": "Por kilo\nPor saco de 50 kg"
+  },
+  {
+    "Categoría": "Materia Prima",
+    "Código del producto": 12,
+    "Producto": "Almendra tostada",
+    "Imagen": "https://i.imgur.com/VTQVgPJ.jpg",
+    "Descripción": "Grano tostado y seco. Sin descascarillar.",
+    "Presentación": "Por kilo\nPor saco de 50 kg"
+  },
+  {
+    "Categoría": "Materia Prima",
+    "Código del producto": 13,
+    "Producto": "Almendra tostada y descascarillada",
+    "Imagen": "https://i.imgur.com/nmg38UR.jpg",
+    "Descripción": "Grano tostado y seco. Descascarillado.",
+    "Presentación": "Por kilo\nPor saco de 50 kg"
+  },
+  {
+    "Categoría": "Materia Prima",
+    "Código del producto": 14,
+    "Producto": "Cascarilla (concha, cascara, piel)",
+    "Imagen": "https://i.imgur.com/24bJ4ov.jpg",
+    "Descripción": "Subproducto: obtenido al separar el grano tostado de la cácara que lo recubre. Hojuelas, secas.",
+    "Presentación": "Por kilo\nPor saco de 50 kg"
+  },
+  {
+    "Categoría": "Materia Prima",
+    "Código del producto": 15,
+    "Producto": "Manteca de cacao (licor de cacao, mantequilla de cacao, pasta de cacao)",
+    "Imagen": "https://i.imgur.com/ReoBOGM.jpg",
+    "Descripción": "Subproducto: Grasa solidificada y homogeinizada de la almendra de cacao, tostada, descascarillada, molida, prensada, filtrada.",
+    "Presentación": "Por kilo"
+  },
+  {
+    "Categoría": "Materia Prima",
+    "Código del producto": 16,
+    "Producto": "Masa de cacao",
+    "Imagen": "https://i.imgur.com/LVPRV2N.jpg",
+    "Descripción": "Subproducto: producto obtenido por la desintegración mecánica de granos de cacao limpios y pelados, sin extraerle ni añadirle ninguno de sus componentes. El grano seleccionado es tostado, descascarillado, molido y refinado.",
+    "Presentación": "Por kilo"
+  },
+  {
+    "Categoría": "Equipo",
+    "Código del producto": 31,
+    "Producto": "Balanza de cocina",
+    "Imagen": "https://i.imgur.com/tn6eU2O.jpg",
+    "Descripción": "Balanza digital con rango de 0.01 a 10 kg y precisión de +/- 0.01",
+    "Presentación": "Pieza"
+  },
+  {
+    "Categoría": "Equipo",
+    "Código del producto": 32,
+    "Producto": "Balanza industrial",
+    "Imagen": "",
+    "Descripción": "Balanzas con rangos de 1 a 200 kg",
+    "Presentación": "Pieza"
+  },
+  {
+    "Categoría": "Equipo",
+    "Código del producto": 321,
+    "Producto": "Balanza industrial digital",
+    "Imagen": "https://i.imgur.com/1kBw8NI.jpg",
+    "Descripción": "Balanza digital con rango de 1 a 200 kg y precisión de +/- 0.1",
+    "Presentación": "Pieza"
+  },
+  {
+    "Categoría": "Equipo",
+    "Código del producto": 322,
+    "Producto": "Balanza industrial analógica",
+    "Imagen": "https://i.imgur.com/IoUjcGT.jpg",
+    "Descripción": "Balanza analógica con rango de 1 a 100 kg y precisión de +/- 0.2",
+    "Presentación": "Pieza"
+  },
+  {
+    "Categoría": "Equipo",
+    "Código del producto": 34,
+    "Producto": "Molino manual",
+    "Imagen": "https://i.imgur.com/howfKYB.jpg",
+    "Descripción": "Balanza analógica con rango de 1 a 100 kg y precisión de +/- 0.2",
+    "Presentación": "Pieza"
+  },
+  {
+    "Categoría": "Material",
+    "Código del producto": 21,
+    "Producto": "Molde flexible para barra / bombón",
+    "Imagen": "https://i.imgur.com/6oZtF78.jpg",
+    "Descripción": "Molde de polímero flexible, preformado para la solidificación de la barra o el bombón",
+    "Presentación": "Pieza"
+  },
+  {
+    "Categoría": "Material",
+    "Código del producto": 22,
+    "Producto": "Molde rígido para barra / bombón",
+    "Imagen": "https://i.imgur.com/NJwJioa.jpg",
+    "Descripción": "Molde de metal o polímero rígido, preformado para la solidificación de la barra o el bombón",
+    "Presentación": "Pieza"
+  },
+  {
+    "Categoría": "Materia Prima",
+    "Código del producto": 17,
+    "Producto": "Polvo de cacao (cacao en polvo)",
+    "Imagen": "https://i.imgur.com/J1XLMgX.jpg",
+    "Descripción": "Subproducto: Material sólido resultante de la extracción de la manteca del cacao, posteriormente triturado y pulverizado.",
+    "Presentación": "Por kilo"
+  }
+]
